@@ -21,7 +21,7 @@ class RegisterView: UIView {
        
 
     //cria a função com as propriadades da label no login
-    var imageLabel = LabelDefault(text: "Entre com o seu e-mail e sua senha para se registrar")
+    var imageLabel = LabelDefault(text: "Entre com o seu e-mail e sua senha para se registrar", font: UIFont.systemFont(ofSize: 27, weight: .regular))
     
     //cria a função com as propriadades da text no login
     var emailTextField = TextFieldDefault (placeholder: "E-mail")
