@@ -15,8 +15,6 @@ class ButtonDefault: UIButton {
         initDefault(botao: botao)
       }
     
-    
-    
     private func initDefault(botao: String) {
         self.setTitle(botao, for: .normal)
         self.backgroundColor = .buttonBackGroundColor

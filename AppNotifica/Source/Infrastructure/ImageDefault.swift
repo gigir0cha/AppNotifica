@@ -12,10 +12,10 @@ class ImageDefault: UIImageView {
     
     init (image: String) {
         super.init(frame: .zero)
-        initDefault(image: image)
+        initImageDefault(image: image)
     }
     
-    private func initDefault ( image: String ){
+    private func initImageDefault ( image: String ){
         self.image = UIImage(named: image)
         self.contentMode = .scaleAspectFit
         self.translatesAutoresizingMaskIntoConstraints = false

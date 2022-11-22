@@ -10,21 +10,16 @@ import UIKit
 
 class LabelDefault : UILabel{
     
-    init(text: String, font: UIFont){
+    init(text: String){
         super.init(frame: .zero)
-        initDefault(text: text, font: font)
+        initDefault(text: text)
     }
     
-   
-    
-    private func initDefault(text: String, font: UIFont){
+    private func initDefault(text: String){
         self.text = text
         self.textColor = .textLabelColor
-        self.font = font
-        self.adjustsFontSizeToFitWidth = true
-        self.numberOfLines = 0;
+        self.font = UIFont(name: "SFProDisplay-Light", size: 17)
         self.translatesAutoresizingMaskIntoConstraints = false
-        //UIFont(name: "SFProDisplay-Light", size: 80)
     }
     
     required init?(coder: NSCoder) {

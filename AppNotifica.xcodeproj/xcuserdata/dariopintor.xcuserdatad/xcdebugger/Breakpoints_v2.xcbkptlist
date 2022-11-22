@@ -32,7 +32,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "18"
             endingLineNumber = "18"
-            landmarkName = "initDefault(image:)"
+            landmarkName = "initImageDefault(image:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
