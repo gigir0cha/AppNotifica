@@ -1,12 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "Union.png",
+      "filename" : "Book Swop.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Book Swop-2.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
