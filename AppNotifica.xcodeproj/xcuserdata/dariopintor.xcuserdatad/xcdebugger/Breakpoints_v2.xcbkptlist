@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C9E8E102-4AF6-4E66-AE8F-84B2CA7317D2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B88DF21-0F9F-4041-9777-5892AE0A2551"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppNotifica/Source/Controller/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "LoginView"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0660DE11-248E-451D-AD4A-7BF4CA94E970"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppNotifica/Source/Infrastructure/ImageDefault.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "initDefault(image:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9E6D8F1-2031-4B1F-B7AE-320C43405D2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppNotifica/Source/Coordinator/LoginCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "start()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9E6D8F1-2031-4B1F-B7AE-320C43405D2E - b6f94f350537f68c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppNotifica.LoginCoordinator.start() -&gt; ()"
+                  moduleName = "AppNotifica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/GoogleDrive/Meu%20Drive/Outros/Formac%CC%A7a%CC%83o%20Swift/Desenvolvendo%20um%20aplicativo%20para%20iOS%20do%20zero%20programaticamente/AppNotifica/AppNotifica/Source/Coordinator/LoginCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "134">
+               </Location>
+               <Location
+                  uuid = "C9E6D8F1-2031-4B1F-B7AE-320C43405D2E - 27c6f6fc1a7975eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in AppNotifica.LoginCoordinator.start() -&gt; ()"
+                  moduleName = "AppNotifica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/GoogleDrive/Meu%20Drive/Outros/Formac%CC%A7a%CC%83o%20Swift/Desenvolvendo%20um%20aplicativo%20para%20iOS%20do%20zero%20programaticamente/AppNotifica/AppNotifica/Source/Coordinator/LoginCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
